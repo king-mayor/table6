@@ -301,6 +301,10 @@ body, html {
     .footer6-2 ul{
         justify-content: center;
     }
+    .post-footer {
+        margin-right: 0px;
+        justify-content: center;
+    }
 }
 @media all and (max-width: 900px) {
     .nav2, .nav3 {
@@ -323,6 +327,10 @@ body, html {
     .footer-containers {
         flex-wrap: wrap;
         gap: 50px;
+    }
+    .post-footer {
+        margin-right: 0px;
+        justify-content: center;
     }
 }
 @media all and (max-width: 1200px) {
