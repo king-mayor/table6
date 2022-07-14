@@ -56,7 +56,7 @@ header {
     margin-top: 30px;
 }
 .bg-image{
-    background-image: url(images/bg-image1.png);
+    background-image: url(./IMAGES/bg-image1.png);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -145,24 +145,24 @@ body, html {
     justify-content: center;
     margin-top: 70px;
 }
-.btn-links button {
+.btn-links input {
     padding: 10px 10px;
     border-radius: 5px;
     border: 1px solid #626262;
     color: #626262;
 }
-.btn-links button:hover {
+.btn-links input:hover {
     cursor: pointer;
 }
 .btn-1, .btn-2, .btn-3, .btn-4, .btn-6, .btn-x, .btn-5 {
     margin-right: 3px;
 }
-.btn-2 button:hover, .btn-3 button:hover, .btn-4 button:hover, .btn-6 button:hover, .btn-x button:hover, .btn-5 button:hover {
+.btn-2 input:hover, .btn-3 input:hover, .btn-4 input:hover, .btn-6 input:hover, .btn-x input:hover, .btn-5 input:hover {
     color: white;
     background-color: rgb(136, 187, 59);
     border: 1px solid rgb(136, 187, 59);
 }
-.btn-6 button{
+.btn-6 input{
     color: white;
     background-color: rgb(136, 187, 59);
     border: 1px solid rgb(136, 187, 59);
